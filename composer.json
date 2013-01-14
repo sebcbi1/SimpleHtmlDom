@@ -1,6 +1,6 @@
 {
     "name": "amstaff/simplehtmldom",
-    "description": "вызов библиотеки \"simple_html_dom\" в стиле PSR-0",
+    "description": "вызов библиотеки \"simple_html_dom\" в стиле PSR-#",
     "keywords": ["html", "dom", "simple"],
 	"homepage" : "http://simplehtmldom.sourceforge.net/",
     "type": "library",
