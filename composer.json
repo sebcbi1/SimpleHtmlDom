@@ -1,6 +1,6 @@
 {
-    "name": "amstaff/simplehtmldom",
-    "description": "вызов библиотеки \"simple_html_dom\" в стиле PSR-#",
+    "name": "sebcbi1/simplehtmldom",
+    "description": "\"simple_html_dom\" fork with autoload fix",
     "keywords": ["html", "dom", "simple"],
 	"homepage" : "http://simplehtmldom.sourceforge.net/",
     "type": "library",
